@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ As a person with a PhD in applied mathematics, I am particularly interested in developing models by understanding the mathematics used in the development of AI.<br>📚 I'm currently attending a Bootcamp.<br>🎯 Goals: Data Analyst, Data Scientist, Machine Learning Engineer<br>🎲 Fun fact: I love Math.</p>
+<p align="left">✨ As a person with a PhD in applied mathematics, I am particularly interested in developing models by understanding the mathematics used in the development of AI.<br>📚 I'm currently attending a Bootcamp.<br>🎯 Goals: Data Analyst, Data Scientist, Machine Learning Engineer<br>🎲 Fact: I love Math.</p>
 
 ###
 
