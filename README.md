@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey! 👋<br>I am a Junior Data Scientist and seeking new challenges and opportunities to share and develop skills and experiences as a member of a team.</p>
+<p align="left">Hey! 👋<br>I am a Data Scientist and seeking new challenges and opportunities to share and develop skills and experiences as a member of a team.</p>
 
 ###
 
