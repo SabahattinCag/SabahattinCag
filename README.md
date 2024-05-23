@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">✨ As a person with a PhD in applied mathematics, I am particularly interested in developing models by understanding the mathematics used in the development of AI.<br>📚 I'm currently attending a Bootcamp.<br>🎯 Goals: Data Analyst, Data Scientist, Machine Learning Engineer<br>🎲 Fact: I love Math.</p>
+<p align="left">✨ As a person with a PhD in applied mathematics, I am particularly interested in developing models by understanding the mathematics used in the development of AI.<br>📚 Currently, I am furthering my knowledge in Data Engineer Tools and LLM.
+
+⚡️ I am actively seeking opportunities to contribute and grow as a member of a dynamic team. I thrive in collaborative environments where I can apply my expertise in data analysis and leverage my programming skills to drive data-driven decision-making..<br>🎯 Goals: Data Analyst, Data Scientist, Machine Learning Engineer<br>🎲 Fact: I love Math.</p>
 
 ###
 
